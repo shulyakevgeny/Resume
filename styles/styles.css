@@ -1,0 +1,92 @@
+body {
+    background-color: #f1f1f1;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+a {
+    color: rgb(7, 31, 250);
+    text-decoration: none;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.blik:hover {
+    /* изменение вида ссылок*/
+    color: red;
+    text-decoration: underline;
+}
+
+.avatar {
+    border-radius: 28px;
+    box-shadow: 4px 4px 14px black;
+}
+
+.info1 {
+    text-align: center;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 30px;
+}
+
+.info {
+    text-align: center;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 30px;
+}
+
+.bg-yellow {
+    background: #f5f0d5;
+}
+
+.bg-green {
+    background: #e5ffe7;
+}
+
+.bg-red {
+    background: #ffe5e5;
+}
+
+.bg-blu {
+    background: hsl(180, 68%, 90%);
+}
+
+.bg-pink {
+    background: hsl(35, 82%, 83%);
+}
+
+.coll p {
+    color: #86898f;
+}
+
+p {
+    text-align: center;
+}
+
+.slack {
+    color: rgba(12, 34, 122, 0.904);
+    text-decoration: none;
+    font-weight: bolder;
+    font-style: normal;
+}
+
+.slack:hover {
+    /* изменение вида ссылок*/
+    color: red;
+    text-decoration: underline;
+}
+
+.info1 p {
+    font-size: 17px;
+}
+
+img {
+    text-align: center;
+}
